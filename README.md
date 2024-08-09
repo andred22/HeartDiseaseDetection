@@ -7,7 +7,6 @@ This project initially began as an academic exercise but has since been enhanced
 
 Included in this repository are the following:
 
-Jupyter Notebook: Contains the full analysis, from data preprocessing to model evaluation.
-Graphs: A collection of visualizations that demonstrate my ability to effectively communicate data insights.
-Heart.csv: The original dataset used for this analysis.
-
+**Jupyter Notebook**: Contains the full analysis, from data preprocessing to model evaluation.
+**Graphs**: A collection of visualizations demonstrating my ability to communicate data insights effectively.
+**Heart.csv**: The original dataset used for this analysis.
