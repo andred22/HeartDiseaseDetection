@@ -8,11 +8,11 @@ This project began as an academic exercise but has since been enhanced to showca
 ## Contents
 --- 
 
-**Data Acquisition**: Downloaded the dataset and imported necessary libraries.
+**Environment Set-Up and Data Acquisition**: Downloaded the dataset and imported necessary libraries.
 
 **Exploratory Data Analysis (EDA)**: Conducted descriptive statistics and created visualizations to understand data distributions and relationships.
 
-**Data Cleaning**: Preprocessed the data to handle missing values, outliers, and inconsistencies.
+**Data Cleaning**: Preprocessed the data to handle any missing values, outliers, and inconsistencies.
 
 **Classifier Development**: Built and trained an initial classification model to predict heart disease.
 
@@ -20,18 +20,9 @@ This project began as an academic exercise but has since been enhanced to showca
 
 **Model Refinement**: Enhanced the classifier using the selected features to achieve higher accuracy.
 
-**Model Evaluation**: Reviewed the model's performance using various metrics to ensure accuracy and reliability.
-Included in this repository are the following:
+**Evaluation**: Assessed the model's performance by calculating the accuracy score and analyzing potential factors that could have impacted the results.
 
 
 
-**Jupyter Notebook**: Contains the full analysis, from data preprocessing to model evaluation.
-**Heart.csv**: The original dataset used for this analysis.
 
-Downloading data and libraries
-Exploratory Data Analysis: Descriptive Statistics and Visualizations
-Data Cleaning
-Feature Selection
-Building a Classifier
-Feature Selection and Classifier with Principle Component Analysis
-Review
+
